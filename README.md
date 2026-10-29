@@ -2,7 +2,7 @@
 
 Quote Copilot reads messy vendor quotations, turns them into one comparison a buyer can trust, and answers award questions in plain English.
 
-**Live demo:** hosted and password protected. The link and password are shared on request.
+**[Live demo](https://appapppy-cl7jquf8iannuwn4kvf32r.streamlit.app/)**: password protected. The password is shared on request.
 
 ---
 
